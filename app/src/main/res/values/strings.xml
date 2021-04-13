@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FinalApps</string>
+    <string name="tvNombreApp">Discoteca</string>
+    <string name="etUsuario">Usuario</string>
+    <string name="etContrasena">Contraseña</string>
+    <string name="btRegistrar">Registrar</string>
+    <string name="btIngresar">Ingresar</string>
+    <string name="title_activity_navegacion">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Favoritos</string>
+    <string name="btQr">QR</string>
+    <string name="activityQR">Cambiar discoteca</string>
+</resources>
